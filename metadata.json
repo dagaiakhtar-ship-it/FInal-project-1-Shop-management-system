@@ -1,0 +1,6 @@
+{
+  "name": "Smart Shop Management System",
+  "description": "A comprehensive, professional shop management system featuring POS billing, inventory, billing records, reporting, and role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
