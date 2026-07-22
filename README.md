@@ -9,6 +9,8 @@ admin can change password of manager and cashiers
 
 {{
 
+BIG ONE
+
 Respected Sir,
 
 I hope this message finds you well.
@@ -34,7 +36,7 @@ Thank you so much for your time and continued support, Sir. 🙏
 
 With sincere respect,
 Akhtar ali
-link {}
+link= {   https://github.com/dagaiakhtar-ship-it/Final-project-2-University-Management-system         }
 
 <img width="1664" height="928" alt="1784693519" src="https://github.com/user-attachments/assets/d56ae026-283c-4809-916f-f03032c8e3f9" />
 
