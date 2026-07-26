@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="https://placehold.co/1400x420/0F172A/38BDF8?text=SMART+SHOP+MANAGEMENT+SYSTEM&font=montserrat" width="100%" alt="banner" />
+<img width="1664" height="928" alt="1785106618" src="https://github.com/user-attachments/assets/1a4c90c2-cb0f-433e-be8f-80a392ddcae4" />
 
 # 🏪 Smart Shop Management System
 
