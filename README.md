@@ -207,6 +207,14 @@ flowchart LR
 <tr>
 <td align="center" width="50%">
 <img width="960" height="540" alt="Screenshot 2026-07-27 002050" src="https://github.com/user-attachments/assets/976313cf-9933-492e-ba08-83feaeb7e743" />
+<img width="960" height="540" alt="33" src="https://github.com/user-attachments/assets/bbad6794-c884-46e3-85c9-d4ed2d6e6aa6" />
+<img width="960" height="540" alt="44" src="https://github.com/user-attachments/assets/f5743c13-6ee9-4ab5-82cd-8e09a7d2dbfc" />
+<img width="960" height="540" alt="55" src="https://github.com/user-attachments/assets/1ebe7c20-866e-4ad6-ad54-515053281e2c" />
+<img width="960" height="540" alt="66" src="https://github.com/user-attachments/assets/e80e3ac6-13a9-4715-af57-e88d04150cf8" />
+<img width="960" height="540" alt="77" src="https://github.com/user-attachments/assets/3dbeabec-bf03-4aec-872e-e9eab1d3c407" />
+
+
+
 <br/><sub><b>① POS terminal</b> — live cart & multi‑payment checkout</sub>
 </td>
 <td align="center" width="50%">
