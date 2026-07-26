@@ -39,7 +39,7 @@ engineered with **React 19 · TypeScript · Tailwind v4 · Dexie.js · Express �
 
 > [!IMPORTANT]
 > ### 🔗 Live Application
-> **➡️ [https://smart-shop-pos.vercel.app](https://smart-shop-pos.vercel.app](https://f-inal-project-1-shop-management-sy.vercel.app/))** <!-- ⚠️ REPLACE_LIVE_URL -->
+> **➡️https://f-inal-project-1-shop-management-sy.vercel.app/))** ](https://smart-shop-pos.vercel.app<!-- ⚠️ REPLACE_LIVE_URL -->
 >
 > 🔑 **Login →** Username `admin` · Password `admin123`
 > 📴 *Offline‑first: all data lives in your browser's IndexedDB. To run locally, jump to [Getting Started](#-getting-started).*
