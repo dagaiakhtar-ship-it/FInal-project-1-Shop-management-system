@@ -227,11 +227,18 @@ flowchart LR
 </tr>
 <tr>
 <td align="center">
-<img src="https://placehold.co/760x440/0F172A/F59E0B?text=3+·+Inventory+%26+Low-Stock+Alerts&font=roboto" width="100%" alt="Inventory"/>
+
+<img width="960" height="540" alt="33" src="https://github.com/user-attachments/assets/da12951e-fe64-4047-b7f8-9e721b75a6c0" />
+
+<img width="960" height="540" alt="44" src="https://github.com/user-attachments/assets/a1f6f702-7475-48cf-989e-ff542b23419a" />
+
 <br/><sub><b>③ Inventory</b> — stock levels & reorder alerts</sub>
 </td>
 <td align="center">
-<img src="https://placehold.co/760x440/0F172A/EC4899?text=4+·+Customers+%26+Credit+Ledger&font=roboto" width="100%" alt="Customers"/>
+
+<img width="960" height="540" alt="55" src="https://github.com/user-attachments/assets/43522000-5495-474f-b2ab-f2e1f3dae238" />
+<img width="960" height="540" alt="66" src="https://github.com/user-attachments/assets/ddaf01a4-396e-4292-953d-27991e43c986" />
+
 <br/><sub><b>④ Customers</b> — credit ledger & payment history</sub>
 </td>
 </tr>
