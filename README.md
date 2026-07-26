@@ -1,190 +1,375 @@
-default user name And password
-admin User name =  admin
-password = admin123
-
-admin can change password of manager and cashiers 
-
-
-
-
-{{
-
-BIG ONE
-
-Respected Sir,
-
-I hope this message finds you well.
-I am truly excited to share with you my latest endeavor — a comprehensive University Management System, a large-scale project I have poured my heart and dedication into building.
-
-This system is designed to bring an entire university ecosystem under one unified roof, seamlessly managing multiple campus buildings and departments. It encompasses a wide range of modules, including:
-
-🎓 Students & Teachers – Complete profile & academic management
-
-📚 Classes & Attendance – Smart scheduling & real-time tracking
-
-📊 Results & Degrees – Automated grading & degree issuance
-
-🔐 Admin & Super Admin – Multi-tier control & institutional oversight
-
-It is, without a doubt, the most ambitious project I have undertaken so far — built to handle the full lifecycle of a modern educational institution from a single, centralized platform.
-
-I would be deeply honored if you could spare a moment to review the project. Your experienced eyes would mean the world to me. I would also be truly grateful for any guidance, suggestions, or recommendations you could share — whether it's about architecture, features, or the direction I should take next.
-
-Your mentorship has always been a guiding light, and your feedback on this project would help me grow even further.
-
-Thank you so much for your time and continued support, Sir. 🙏
-
-With sincere respect,
-Akhtar ali
-link= {   https://github.com/dagaiakhtar-ship-it/Final-project-2-University-Management-system         }
-
-<img width="1664" height="928" alt="1784693519" src="https://github.com/user-attachments/assets/d56ae026-283c-4809-916f-f03032c8e3f9" />
-
-
-}}
-
-
 <!-- =====================================================================
-     🎨  SMART SHOP MANAGEMENT SYSTEM — GitHub README (v3)
+     🏪  SMART SHOP MANAGEMENT SYSTEM — Premium README
      ---------------------------------------------------------------------
-     ✅ All images use reliable hosts (Shields.io, placehold.co, GitHub
-        user-attachments). Mermaid diagrams render natively on GitHub.
-     
-     🖼️  TO USE YOUR REAL SCREENSHOTS:
-        Replace the placehold.co URLs with your asset paths:
-        - Hero:        assets/pos-terminal.png
-        - Dashboard:   assets/dashboard.png
-        - Inventory:   assets/inventory.png
-        - Customers:   assets/customers.png
+     ✅ Full project report (a–g): name/problem · live URL · features ·
+        AI + prompt · stack · 3+ screenshots · run instructions
+
+     🎨 BEFORE YOU PUBLISH — replace:
+        1. 🔍 search "REPLACE_LIVE_URL" → your real deployed link
+        2. 🖼️  swap the placehold.co screenshots with files in /assets
+        3. 🤖 paste your exact prompt from src/services/AIReportService.ts
 ===================================================================== -->
 
 <div align="center">
 
+<img src="https://placehold.co/1400x420/0F172A/38BDF8?text=SMART+SHOP+MANAGEMENT+SYSTEM&font=montserrat" width="100%" alt="banner" />
+
 # 🏪 Smart Shop Management System
 
-### Offline‑First · AI‑Powered · Built for Real Business
+### *Offline‑First · AI‑Powered · Built for a Real Business*
 
-An ultra‑speed, **offline‑first** Point of Sale terminal and comprehensive **Business Intelligence** suite — engineered with **React 19**, **TypeScript**, **Tailwind CSS v4**, **Dexie.js (IndexedDB)**, and **Google Gemini AI**.
-
-> **This is not just an academic project — it is a real‑world system built to manage a real shop.**
-
-<!-- Status badges -->
-![Status](https://img.shields.io/badge/Status-Production_Ready-22C55E?style=flat-square)
-![Offline](https://img.shields.io/badge/Offline--First-100%25-8B5CF6?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Gemini_2.5_Flash-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
-![Version](https://img.shields.io/badge/Version-1.0.0-FF6B6B?style=flat-square)
-![License](https://img.shields.io/badge/License-Educational_+_Practical-111827?style=flat-square)
-
-</div>
-
----
-
-<!-- ============================  HERO  ============================ -->
-<div align="center">
-
-<img src="https://placehold.co/1200x520/0F172A/38BDF8?text=POS+TERMINAL+%C2%B7+LIVE+CART+%C2%B7+MULTI-PAY+CHECKOUT&font=roboto" alt="POS Terminal hero" width="92%" />
-
-<sub>A tactile, keyboard‑driven cashier experience — live cart, multi‑payment checkout, instant product search.</sub>
-
-</div>
-
----
-
-<!-- ======================  TECH BADGES  ====================== -->
-<div align="center">
-
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+An ultra‑fast, **offline‑first** Point‑of‑Sale terminal & **Business‑Intelligence** suite —
+engineered with **React 19 · TypeScript · Tailwind v4 · Dexie.js · Express · Google Gemini AI**.
 
 <br/>
 
-![Zustand](https://img.shields.io/badge/State-Zustand-F59E0B?style=flat-square&logo=react&logoColor=white)
-![Dexie](https://img.shields.io/badge/DB-Dexie.js_/_IndexedDB-EF4444?style=flat-square)
-![Recharts](https://img.shields.io/badge/Charts-Recharts-10B981?style=flat-square)
-![jsPDF](https://img.shields.io/badge/Export-jsPDF_/_XLSX_/_CSV-7C3AED?style=flat-square)
-![Framer](https://img.shields.io/badge/Motion-Framer_Motion-EC4899?style=flat-square)
-![Router](https://img.shields.io/badge/Routing-React_Router_v7-CA4245?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-Production_Ready-22C55E?style=for-the-badge)
+![Offline](https://img.shields.io/badge/OFFLINE-First_·_100%25-8B5CF6?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Version](https://img.shields.io/badge/VERSION-1.0.0-FF6B6B?style=for-the-badge)
+![License](https://img.shields.io/badge/LICENSE-Educational_+_Practical-111827?style=for-the-badge)
+
+<br/><br/>
+
+<!-- ⚠️ REPLACE_LIVE_URL -->
+[![LIVE](https://img.shields.io/badge/LIVE_DEMO-smart--shop--pos.vercel.app-16A34A?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-shop-pos.vercel.app)
+[![SOURCE](https://img.shields.io/badge/SOURCE_CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dagaiakhtar-ship-it/Final---project-)
 
 </div>
 
+> [!IMPORTANT]
+> ### 🔗 Live Application
+> **➡️ [https://smart-shop-pos.vercel.app](https://smart-shop-pos.vercel.app)** <!-- ⚠️ REPLACE_LIVE_URL -->
+>
+> 🔑 **Login →** Username `admin` · Password `admin123`
+> 📴 *Offline‑first: all data lives in your browser's IndexedDB. To run locally, jump to [Getting Started](#-getting-started).*
+
 ---
 
-## 📖 About the Project
+## 📊 At a Glance
 
-The **Smart Shop Management System** is designed to help small businesses manage their daily operations from one place. It provides tools for billing, inventory, customers, credit, payments, and business analytics — all in a single, unified platform.
+<table>
+<tr>
+<td align="center" width="20%">📴<br/><br/><b>100%</b><br/><sub>OFFLINE-FIRST</sub></td>
+<td align="center" width="20%">🤖<br/><br/><b>Gemini 2.5</b><br/><sub>AI ANALYTICS</sub></td>
+<td align="center" width="20%">⚡<br/><br/><b>&lt;1s</b><br/><sub>UI RESPONSE</sub></td>
+<td align="center" width="20%">🧩<br/><br/><b>6+</b><br/><sub>BUSINESS MODULES</sub></td>
+<td align="center" width="20%">🔐<br/><br/><b>3</b><br/><sub>USER ROLES</sub></td>
+</tr>
+</table>
 
-> **Built by a Computer Science student for his own shop** — combining academic knowledge in software development with real‑world business experience.
+<br/>
+
+<div align="center">
+
+### 📖 The Story
+
+<img src="https://placehold.co/120x4/0F172A/0F172A" alt="Divider" />
+
+Running a small retail shop is more challenging than it appears. Every day, business owners lose revenue in ways that are difficult to notice. A slow checkout can drive away customers during peak hours, delayed inventory tracking can leave shelves empty when demand is highest, and unmanaged customer credit can gradually become unpaid debt. At the same time, enterprise solutions like SAP and Oracle ERP are expensive, overly complex, and often depend on a reliable internet connection—something many small businesses cannot always rely on.
+
+The **Smart Shop Management System** was created to solve these real-world challenges. It combines billing, inventory management, customer records, credit management, purchases, suppliers, expenses, reporting, and **AI-powered business analytics** into a single modern platform that is fast, intuitive, and **fully functional even without an internet connection**.
+
+Instead of simply recording transactions, the system helps shop owners make smarter decisions. Built-in AI analyzes sales patterns, predicts inventory shortages, identifies top-selling products, monitors customer credit risk, and provides actionable business insights—all from one dashboard.
+
+The result is an affordable, enterprise-inspired solution designed specifically for small and medium-sized businesses, allowing owners to work faster, reduce losses, and grow their business with confidence.
+
+> [!NOTE]
+> **Built by a Computer Science student for his own shop.** This project combines academic software engineering principles with practical experience gained from managing a real retail business, ensuring that every feature addresses genuine day-to-day operational challenges.
+
 
 <table>
 <tr>
 <td width="50%">
 
-### ⚡ Why it's different
-- 🚀 **Sub‑second** UI on commodity hardware
-- 📴 **100 % offline** — IndexedDB is the source of truth
-- 🤖 **Gemini‑powered** BI assistant & report writer
-- ⌨️ **Hotkey‑first** cashier workflow (F1–F9)
-- 🧾 **Pixel‑perfect** thermal receipt printing
-- 🔐 **Role‑based access** — Admin, Manager, Cashier
+**⚡ Why it's different**
+- 🚀 Sub‑second UI on commodity hardware
+- 📴 100 % offline — IndexedDB is the source of truth
+- 🤖 Gemini‑powered BI assistant & report writer
+- ⌨️ Hotkey‑first cashier workflow (F1–F9)
+- 🧾 Pixel‑perfect thermal receipt printing
+- 🔐 Role‑based access — Admin · Manager · Cashier
 
 </td>
 <td width="50%">
 
-### 🎯 Built for
+**🎯 Built for**
 - 🏪 Retail & grocery shops
 - ☕ Cafés & quick‑service counters
 - 📦 Wholesale & credit‑based trade
-- 📊 Owners who want **real** analytics
-- 🌍 Regions with **unreliable internet**
-- 👨‍💻 Students learning full‑stack development
+- 📊 Owners who want *real* analytics
+- 🌍 Regions with unreliable internet
+- 👨‍💻 Students learning full‑stack dev
 
 </td>
 </tr>
 </table>
 
----
-
-## 🔐 Default Login Credentials
-
-> ⚠️ **Security Notice:** Change the default password immediately after first login in a production environment.
+<br/>
 
 <div align="center">
 
-| Role | Username | Password | Permissions |
-|:---:|:---:|:---:|:---|
-| 👑 **Admin** | `admin` | `admin123` | Full system access · User management · Password reset for all roles |
-| 🧑‍💼 **Manager** | *(created by Admin)* | *(set by Admin)* | Inventory · Purchases · Reports · Customer management |
-| 💵 **Cashier** | *(created by Admin)* | *(set by Admin)* | POS terminal · Sales · Basic customer lookup |
+### ✨ Core Features
+
+<img src="https://placehold.co/120x4/0EA5E9/0EA5E9" alt="—" />
 
 </div>
 
-### 👥 User Roles & Permissions
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛒 POS Cashier Terminal**
+Live product grid, instant search, barcode scanner, favorites, dynamic tax & discount engine, multi‑payment settlement *(Cash · Card · Wallet · Credit)*, and automatic credit‑limit validation.
+
+</td>
+<td width="33%" valign="top">
+
+**📊 BI & AI Analytics**
+Ask questions in plain English. Gemini returns insights, stock alerts, projections & **auto‑generated PDF reports** with executive summaries.
+
+</td>
+<td width="33%" valign="top">
+
+**📦 Inventory & Catalog**
+SKU & barcode generation, cost vs. sell price, reorder thresholds, low‑stock warnings, and **atomic stock deduction** on checkout.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**👥 Customers & Credit**
+Lifetime spend tracking, loyalty history, full credit ledger, payment logs, automatic credit‑limit enforcement, and loan‑recovery tracking.
+
+</td>
+<td valign="top">
+
+**🚚 Suppliers & Purchases**
+Supplier profiles, purchase orders, inventory intake tracking, and accounts‑payable records — all linked to stock movements.
+
+</td>
+<td valign="top">
+
+**💰 Expenses & ☁️ Sync**
+Categorized & recurring expenses with attachments. Offline queue, JSON/CSV backup, restore wizard, and data‑integrity verification.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🤖 The AI Feature
+
+<img src="https://placehold.co/120x4/7C3AED/7C3AED" alt="—" />
+
+</div>
+
+The built‑in **"Shop Mind"** assistant turns live shop data into decisions, powered by **Google Gemini 2.5 Flash**:
+
+- 💬 Answers plain‑English questions — *"Which products should I reorder this week?"*
+- 🚨 Flags **low / out‑of‑stock items**, **dead stock**, **fast movers**, and **customers near their credit limit**
+- 📈 Produces short **demand & revenue projections** with stated assumptions
+- 📝 Writes **executive‑summary PDF reports** → `headline · key metrics · insights · risks · actions`
+
+> [!TIP]
+> 🔐 The AI **never touches the browser directly**. The client calls `/api/ai/*`, and the **Express server injects `GEMINI_API_KEY` server‑side** — so your key is never exposed.
+
+```mermaid
+flowchart LR
+    Q["👤 Owner asks a question"] --> API["POST /api/ai/*<br/>(Express)"]
+    DATA[("IndexedDB snapshot<br/>products · sales · customers · expenses")] --> API
+    API -->|"GEMINI_API_KEY<br/>(server-side)"| GEM(("✨ Gemini<br/>2.5 Flash"))
+    GEM --> JSON["Structured JSON answer"]
+    JSON --> UI["📊 BI Hub + 📄 PDF report"]
+
+    style GEM fill:#FEF3C7,stroke:#D97706,color:#78350F
+    style DATA fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E
+```
+
+
+<br/>
+
+<div align="center">
+
+### 📸 Screenshots
+
+<img src="https://placehold.co/120x4/EC4899/EC4899" alt="—" />
+
+</div>
+
+<!-- 🖼️  REPLACE placehold.co URLs with: assets/pos-terminal.png · dashboard.png · inventory.png · customers.png -->
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img width="960" height="540" alt="Screenshot 2026-07-27 002050" src="https://github.com/user-attachments/assets/976313cf-9933-492e-ba08-83feaeb7e743" />
+<br/><sub><b>① POS terminal</b> — live cart & multi‑payment checkout</sub>
+</td>
+<td align="center" width="50%">
+<img width="960" height="540" alt="22" src="https://github.com/user-attachments/assets/89140a32-fa64-4946-86c4-f7d983a7e304" />
+<img width="960" height="540" alt="33" src="https://github.com/user-attachments/assets/e0eef698-4276-4a2b-92d9-50e543c62062" />
+
+
+<br/><sub><b>② BI dashboard</b> — KPIs, charts & AI insights</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://placehold.co/760x440/0F172A/F59E0B?text=3+·+Inventory+%26+Low-Stock+Alerts&font=roboto" width="100%" alt="Inventory"/>
+<br/><sub><b>③ Inventory</b> — stock levels & reorder alerts</sub>
+</td>
+<td align="center">
+<img src="https://placehold.co/760x440/0F172A/EC4899?text=4+·+Customers+%26+Credit+Ledger&font=roboto" width="100%" alt="Customers"/>
+<br/><sub><b>④ Customers</b> — credit ledger & payment history</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🏗️ Architecture
+
+<img src="https://placehold.co/120x4/4F46E5/4F46E5" alt="—" />
+
+</div>
+
+A **hybrid, client‑centric, offline‑first** design. The browser owns the data; Express only serves files, proxies AI calls, and guards secrets.
+
+```mermaid
+flowchart TB
+    subgraph Client["🌐 BROWSER CLIENT"]
+        UI["<b>React 19 + TypeScript UI</b><br/>POS · BI · Inventory · Customers"]
+        State["Zustand Stores & Hooks"]
+        DB[("🗄️ Dexie.js / IndexedDB")]
+        Sync["🔄 Sync Queue / Backup"]
+        UI --> State --> DB
+        State --> Sync
+    end
+    subgraph Server["⚙️ EXPRESS BACKEND"]
+        Vite["Vite / Static Server"]
+        AI["🤖 /api/ai Routes"]
+        Vite --> AI
+    end
+    Client <-->|HTTP / REST| Server
+    AI -->|GEMINI_API_KEY| Gemini(("✨ Gemini API"))
+
+    classDef c fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E;
+    classDef s fill:#EEF2FF,stroke:#4F46E5,color:#312E81;
+    classDef a fill:#FEF3C7,stroke:#D97706,color:#78350F;
+    class Client c; class Server s; class Gemini a;
+```
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant U as 👤 Cashier
+    participant UI as React UI
+    participant DB as Dexie (IndexedDB)
+    participant S as Express
+    participant G as Gemini
+    U->>UI: Add item / Checkout
+    UI->>DB: atomic transaction (deduct stock, update ledger)
+    DB-->>UI: useLiveQuery() pushes update
+    Note over UI,DB: ✅ Works fully OFFLINE
+    U->>UI: "Ask AI" question
+    UI->>S: POST /api/ai/*
+    S->>G: GEMINI_API_KEY (server-side)
+    G-->>UI: JSON answer
+```
+
+<br/>
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<img src="https://placehold.co/120x4/06B6D4/06B6D4" alt="—" />
+
+</div>
+
+<div align="center">
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-State-F59E0B?style=for-the-badge)
+![Framer](https://img.shields.io/badge/Framer_Motion-UI-EC4899?style=for-the-badge)
+
+**Backend & Data**
+
+![Express](https://img.shields.io/badge/Express.js-Server-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Dexie](https://img.shields.io/badge/Dexie.js-IndexedDB-EF4444?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-17+_JDBC-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**AI & Export**
+
+![Gemini](https://img.shields.io/badge/Google_Gemini-2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-Charts-10B981?style=for-the-badge)
+![jsPDF](https://img.shields.io/badge/jsPDF-XLSX_·_CSV-7C3AED?style=for-the-badge)
+
+</div>
+
+| Layer | Choice | Why |
+|-------|--------|-----|
+| **UI** | React 19 + TypeScript + Tailwind v4 | Type‑safe, fast, consistent design |
+| **State / Routing** | Zustand · React Router v7 | Lightweight stores, protected routes |
+| **Local DB** | Dexie.js / IndexedDB | Offline‑first source of truth |
+| **Server** | Express (Node 18+) | Static serving + secure AI proxy |
+| **AI** | Google Gemini 2.5 Flash | Fast, cheap analytics & reports |
+| **Alt. backend** | Java 17 + JDBC + SQL | Relational reference implementation |
+
+<br/>
+
+<div align="center">
+
+### 🔐 Roles & Access
+
+<img src="https://placehold.co/120x4/D97706/D97706" alt="—" />
+
+</div>
+
+> [!WARNING]
+> **Security:** Change the default password immediately after first login in any real deployment.
+
+<div align="center">
+
+| Role | Username | Password | Scope |
+|:---:|:---:|:---:|:---|
+| 👑 **Admin** | `admin` | `admin123` | Full access · User management · **Resets Manager & Cashier passwords** |
+| 🧑‍💼 **Manager** | *(by Admin)* | *(by Admin)* | Inventory · Purchases · Reports · Customers |
+| 💵 **Cashier** | *(by Admin)* | *(by Admin)* | POS · Sales · Customer lookup |
+
+</div>
+
+> 🔑 **Only the Admin** can create users and reset the passwords of Managers and Cashiers.
 
 ```mermaid
 flowchart LR
     Admin["👑 Admin<br/><i>admin / admin123</i>"]
     Manager["🧑‍💼 Manager"]
     Cashier["💵 Cashier"]
-    
-    Admin -->|"Creates & manages"| Manager
-    Admin -->|"Creates & manages"| Cashier
-    Admin -->|"Can reset password"| Manager
-    Admin -->|"Can reset password"| Cashier
-    
-    Manager -->|"Supervises"| Cashier
-    
+    Admin -->|creates| Manager
+    Admin -->|creates| Cashier
+    Admin -.->|resets password| Manager
+    Admin -.->|resets password| Cashier
+    Manager -->|supervises| Cashier
     style Admin fill:#FEF3C7,stroke:#D97706,color:#78350F
     style Manager fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E
     style Cashier fill:#F0FDF4,stroke:#16A34A,color:#14532D
 ```
 
 <details>
-<summary><b>🔑 What can each role do?</b></summary>
+<summary><b>🔑 Full permission matrix</b></summary>
 
 | Feature | 👑 Admin | 🧑‍💼 Manager | 💵 Cashier |
 |---------|:---:|:---:|:---:|
@@ -196,220 +381,31 @@ flowchart LR
 | BI Dashboard & Reports | ✅ | ✅ | ❌ |
 | Cloud Sync & Backup | ✅ | ❌ | ❌ |
 | User Management | ✅ | ❌ | ❌ |
-| Change Manager/Cashier Password | ✅ | ❌ | ❌ |
+| **Change Manager/Cashier Password** | ✅ | ❌ | ❌ |
 | System Settings | ✅ | ❌ | ❌ |
 
 </details>
 
----
+<br/>
 
-## 🧭 Table of Contents
+<div align="center">
 
-- [🔐 Default Login Credentials](#-default-login-credentials)
-- [✨ Core Features](#-core-features)
-- [🏗️ Architecture](#-architecture)
-- [⚡ Data Flow & Persistence](#-data-flow--persistence)
-- [📁 Project Structure](#-project-structure)
-- [🚀 Getting Started](#-getting-started)
-- [📦 Production Build](#-production-build)
-- [⌨️ Keyboard Shortcuts](#-keyboard-shortcuts)
-- [🎓 Related Projects](#-related-projects)
-- [👨‍💻 Developer](#-developer)
-- [📄 License](#-license)
+### 🚀 Getting Started
 
----
+<img src="https://placehold.co/120x4/10B981/10B981" alt="—" />
 
-## ✨ Core Features
+</div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**✅ Prerequisites** — Node.js ≥ `18.x` · npm ≥ `9.x` · a [Gemini API key](https://aistudio.google.com/apikey) · *(optional)* Java 17+
 
-### 🛒 POS Cashier Terminal
-Live product grid, instant search, barcode scanner, favorites, dynamic tax & discount engine, multi‑payment settlement (Cash · Card · Wallet · Credit), and **automatic credit‑limit validation**.
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 BI & AI Analytics
-Ask your business questions in plain English. Gemini 2.5 Flash returns insights, stock alerts, projections & **auto‑generated PDF reports** with executive summaries.
-
-</td>
-<td width="33%" valign="top">
-
-### 📦 Inventory & Catalog
-SKU & barcode generation, cost vs. sell price, reorder thresholds, low‑stock warnings, and **atomic stock deduction** on checkout.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-### 👥 Customers & Credit
-Lifetime spend tracking, loyalty history, full credit ledger, payment logs, **automatic credit‑limit enforcement**, and loan recovery tracking.
-
-</td>
-<td valign="top">
-
-### 🚚 Suppliers & Purchases
-Supplier profiles, purchase orders, inventory intake tracking, and accounts‑payable records — all linked to stock movements.
-
-</td>
-<td valign="top">
-
-### 💰 Expenses & ☁️ Sync
-Categorized & recurring expenses with attachments. Offline queue, JSON/CSV backup, restore wizard, and data integrity verification.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏗️ Architecture
-
-A **hybrid, client‑centric, offline‑first** design. The browser owns the data; the Express server only serves files, proxies AI calls, and guards secrets.
-
-```mermaid
-flowchart TB
-    subgraph Client["🌐 BROWSER CLIENT"]
-        UI["<b>React 19 + TypeScript UI</b><br/>POS · BI · Inventory · Customers"]
-        State["Zustand Stores & Hooks<br/><i>useAppStore · usePOS · useCart · useSales · authStore</i>"]
-        DB[("🗄️ Dexie.js<br/>IndexedDB")]
-        Sync["🔄 Sync Queue /<br/>Backup Engine"]
-        UI --> State
-        State --> DB
-        State --> Sync
-    end
-
-    subgraph Server["⚙️ EXPRESS.JS BACKEND  (server.ts / Node)"]
-        Vite["Vite Dev Middleware /<br/>Production Static Server"]
-        AI["🤖 /api/ai Routes<br/>(Google GenAI)"]
-        Health["❤️ Health / Sync Services"]
-        Vite --> AI
-        Vite --> Health
-    end
-
-    Client <-->|HTTP / REST| Server
-    AI -->|GEMINI_API_KEY| Gemini(("✨ Google<br/>Gemini API"))
-
-    classDef client fill:#E0F2FE,stroke:#0284C7,color:#0C4A6E;
-    classDef server fill:#EEF2FF,stroke:#4F46E5,color:#312E81;
-    classDef ai     fill:#FEF3C7,stroke:#D97706,color:#78350F;
-    class Client client;
-    class Server server;
-    class Gemini ai;
-```
-
----
-
-## ⚡ Data Flow & Persistence
-
-```mermaid
-sequenceDiagram
-    autonumber
-    participant U as 👤 Cashier
-    participant UI as React UI
-    participant H as Hooks / Helpers
-    participant DB as Dexie (IndexedDB)
-    participant S as Express Server
-    participant G as Gemini API
-
-    U->>UI: Add item / Checkout
-    UI->>H: dispatch action
-    H->>DB: atomic transaction<br/>(deduct stock, update ledger)
-    DB-->>UI: useLiveQuery() pushes update
-    Note over UI,DB: ✅ Works fully OFFLINE
-
-    U->>UI: "Ask AI" question
-    UI->>S: POST /api/ai/*
-    S->>G: GEMINI_API_KEY (server-side)
-    G-->>S: insights
-    S-->>UI: JSON answer
-```
-
-- **Offline‑first:** Products, Sales, Customers, Expenses & Purchases live in IndexedDB — **100 % functional** without internet.
-- **Reactive reads:** components subscribe via `useLiveQuery`.
-- **Atomic writes:** helpers (e.g. `salesHelper.ts`) deduct stock and update credit ledgers in one transaction.
-- **Secure AI:** keys never touch the client — the browser calls `/api/ai/*`, the server injects `GEMINI_API_KEY`.
-
----
-
-## 📁 Project Structure
-
-```text
-smart-shop-management-system/
- ├── server.ts                 # Express backend + Vite dev middleware
- ├── index.html                # Web entry template
- ├── metadata.json             # Applet config & metadata
- ├── package.json              # Dependencies & scripts
- ├── vite.config.ts            # Vite build config
- ├── tsconfig.json             # TS compiler config
- ├── .env.example              # Env variable docs
- ├── run.bat                   # Windows quick-start
- ├── Click here to run app as localhost.bat
- │
- ├── src/
- │   ├── main.tsx              # React bootstrap & DOM mount
- │   ├── App.tsx               # Router & Providers
- │   ├── data.ts               # Seed data & defaults
- │   ├── types.ts              # TypeScript interfaces
- │   │
- │   ├── assets/               # Fonts, audio, images, icons
- │   ├── config/               # Branding & theme
- │   ├── constants/            # Enums & system constants
- │   ├── contexts/             # AppearanceContext, PrintContext
- │   ├── database/             # Dexie schema + helpers
- │   │   ├── db.ts             # DB instance & tables
- │   │   ├── dbSeeder.ts       # Default data seeder
- │   │   ├── salesHelper.ts    # POS transactions
- │   │   ├── productHelper.ts  # Product & stock
- │   │   └── customerHelper.ts # Customer & credit
- │   │
- │   ├── hooks/                # usePOS · useCart · useSales · useAuth · usePDF · usePrint …
- │   ├── layouts/              # Main · Dashboard · Auth layouts
- │   ├── pages/                # Sales · Products · Customers · Purchases · Expenses · CloudSync · Dashboard
- │   ├── components/
- │   │   ├── ai/               # AI assistant drawer & reports
- │   │   ├── auth/             # Login · ProtectedRoute · RoleGuard
- │   │   ├── common/           # MotionComponents · Toast · Breadcrumb
- │   │   ├── dashboard/        # BiAnalyticsHub · KpiGrid · Charts
- │   │   ├── pos/new/          # ProductGrid · PaymentPanel · BillSummary · CartCard · POSHeader
- │   │   └── ui/               # Buttons · Modals · Inputs · Badges
- │   │
- │   ├── routes/router.tsx     # React Router definitions
- │   ├── services/             # AIReportService · PDFService · SyncService
- │   ├── store/                # useAppStore · authStore · uiStore
- │   ├── styles/               # Tailwind import + print overrides
- │   └── utils/                # finance.ts · backup.ts · dataManagement.ts · pdfDocument.ts · printUtils.ts
- │
- └── java-src/                 # Java backend (JDBC + SQL)
-     ├── dao/                  # Data Access Objects
-     ├── db/                   # Database connection
-     ├── model/                # Entity models
-     ├── ui/                   # Java Swing UI (optional)
-     ├── util/                 # Utilities
-     ├── Main.java             # Entry point
-     └── schema.sql            # Database schema
-```
-
----
-
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-- **Node.js** ≥ `v18.x`
-- **npm** ≥ `v9.x`
-- *(Optional)* **Java 17+** for the JDBC backend
-
-### 1️⃣ Clone & install
+**① Clone & install**
 ```bash
 git clone https://github.com/dagaiakhtar-ship-it/Final---project-.git
 cd Final---project-
 npm install
 ```
 
-### 2️⃣ Configure environment
+**② Configure environment**
 ```bash
 cp .env.example .env
 ```
@@ -418,144 +414,116 @@ GEMINI_API_KEY="your_google_gemini_api_key_here"
 APP_URL="http://localhost:3000"
 ```
 
-### 3️⃣ Run the dev server
+**③ Run the dev server**
 ```bash
-npm run dev
-```
-🌐 Open **http://localhost:3000**
-
-### 4️⃣ Login
-```text
-Username: admin
-Password: admin123
+npm run dev          # 🌐 open http://localhost:3000
 ```
 
-> 💡 **Windows users:** You can also double‑click `run.bat` or `Click here to run app as localhost.bat` for a one‑click start.
+**④ Login** → `admin` / `admin123`
 
----
+> [!TIP]
+> 🪟 **Windows:** double‑click `run.bat` or `Click here to run app as localhost.bat` for a one‑click start.
 
-## 📦 Production Build
-
+**📦 Production build**
 ```bash
-npm run build      # vite build  +  esbuild server.ts → dist/server.cjs
-npm start          # node dist/server.cjs  (serves on :3000)
+npm run build        # vite build + esbuild server.ts → dist/server.cjs
+npm start            # node dist/server.cjs  (serves on :3000)
 ```
 
-| Step | Command | Output |
-|------|---------|--------|
-| Client bundle | `vite build` | `dist/` (static assets) |
-| Server bundle | `esbuild server.ts` | `dist/server.cjs` (CommonJS) |
-| Launch | `npm start` | `node dist/server.cjs` |
-
----
-
-## ⌨️ Keyboard Shortcuts
-
-The POS terminal is built for **hands‑on‑keyboard** speed.
-
-| Key | Action |   | Key | Action |
-|:---:|--------|---|:---:|--------|
-| `F1` | Quick product search |   | `F8` | Open checkout modal |
-| `F2` | Focus barcode scanner |   | `F9` | Quick **cash** sale |
-| `F3` | Select / add customer |   | `Esc` | Close dialog / clear |
-| `F4` | Apply order discount |   |     |     |
-
----
-
-## 🎓 Related Projects
-
-<div align="center">
-
-### 🏛️ University Management System
-
-*A large‑scale, multi‑campus university ecosystem — the most ambitious project I have undertaken.*
-
-<a href="https://github.com/dagaiakhtar-ship-it/Final-project-2-University-Management-system">
-  <img src="https://github.com/user-attachments/assets/d56ae026-283c-4809-916f-f03032c8e3f9" alt="University Management System" width="85%" />
-</a>
+> [!NOTE]
+> ☁️ **To get your live URL:** deploy `dist/` to **Vercel / Netlify / Render**, set `GEMINI_API_KEY` in the host's env vars, then paste the URL into the **LIVE_DEMO** badge at the top.
 
 <br/>
 
-![UMS](https://img.shields.io/badge/University-Management_System-4F46E5?style=for-the-badge&logo=graduation-cap&logoColor=white)
+<div align="center">
+
+### ⌨️ Keyboard Shortcuts
+
+<img src="https://placehold.co/120x4/64748B/64748B" alt="—" />
 
 </div>
 
-This system brings an entire university ecosystem under one unified roof, seamlessly managing multiple campus buildings and departments:
+<div align="center">
+
+| Key | Action | | Key | Action |
+|:---:|--------|---|:---:|--------|
+| `F1` | Quick product search | | `F8` | Open checkout modal |
+| `F2` | Focus barcode scanner | | `F9` | Quick **cash** sale |
+| `F3` | Select / add customer | | `Esc` | Close / clear |
+| `F4` | Apply order discount | | | |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🎓 Related Project
+
+<img src="https://placehold.co/120x4/6D28D9/6D28D9" alt="—" />
+
+</div>
+
+<table>
+<tr>
+<td width="55%">
+
+**🏛️ University Management System**
+
+*The most ambitious project I have undertaken* — a large‑scale, multi‑campus university ecosystem under one unified roof.
 
 | Module | Description |
 |--------|-------------|
-| 🎓 **Students & Teachers** | Complete profile & academic management |
-| 📚 **Classes & Attendance** | Smart scheduling & real‑time tracking |
-| 📊 **Results & Degrees** | Automated grading & degree issuance |
-| 🔐 **Admin & Super Admin** | Multi‑tier control & institutional oversight |
-
-> Built to handle the full lifecycle of a modern educational institution from a single, centralized platform.
+| 🎓 Students & Teachers | Profile & academic management |
+| 📚 Classes & Attendance | Smart scheduling & real‑time tracking |
+| 📊 Results & Degrees | Automated grading & degree issuance |
+| 🔐 Admin & Super Admin | Multi‑tier institutional oversight |
 
 <div align="center">
 
-[**🔗 View on GitHub**](https://github.com/dagaiakhtar-ship-it/Final-project-2-University-Management-system)
+[**🔗 View on GitHub →**](https://github.com/dagaiakhtar-ship-it/Final-project-2-University-Management-system)
 
 </div>
 
----
+</td>
+<td width="45%" align="center">
 
-## 👨‍💻 Developer
+<a href="https://github.com/dagaiakhtar-ship-it/Final-project-2-University-Management-system">
+<img src="https://github.com/user-attachments/assets/d56ae026-283c-4809-916f-f03032c8e3f9" width="100%" alt="University Management System"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
+
+### 👨‍💻 Developer
+
+<img src="https://placehold.co/120x4/E11D48/E11D48" alt="—" />
+
+<br/><br/>
 
 **Akhtar Ali**
 
-Computer Science Student & Shopkeeper
+*Computer Science Student & Shopkeeper*
 
-*Built for a real‑world shop to combine academic knowledge with practical business experience.*
+*Built for a real‑world shop — combining academic knowledge with practical business experience.*
 
-</div>
+<br/>
 
-### 📚 What I learned building this
+![Learned](https://img.shields.io/badge/LEARNED-React_·_TS_·_Java_·_SQL_·_System_Design-0F172A?style=for-the-badge)
 
-- React application development & TypeScript
-- Java, JDBC, SQL & database design
-- Software architecture & system design
-- Business logic & real‑world problem solving
-- Git, GitHub & version control
-- Data persistence & offline‑first patterns
-
----
-
-## 🔮 Future Improvements
-
-- ☁️ Cloud database synchronization
-- 👥 Multi‑user access with granular permissions
-- 🔐 Advanced authentication (2FA, OAuth)
-- 📱 Mobile application (React Native)
-- 📈 More advanced analytics & forecasting
-- 📷 Barcode scanner integration (camera‑based)
-- 🔄 Improved multi‑device synchronization
-
----
-
-## ⭐ Support
-
-If you find this project interesting or useful, consider giving the repository a ⭐ star!
-
----
-
-## 📄 License
-
-> This project is developed for **educational and practical use**. Built by a Computer Science student for real‑world shop management.
-
----
-
-<div align="center">
+<br/><br/>
 
 ### 💙 Built with caffeine, TypeScript & a love for offline‑first design
 
 **Smart Shop Management System** · by **Akhtar Ali**
 
+<br/>
+
+<sub>This project is developed for educational and practical use. ⭐ Star the repo if you find it useful!</sub>
+
 </div>
-
----
-
-## 📄 License
-
-This project is developed for educational and practical use.
